@@ -1,0 +1,17 @@
+{
+  "name": "steuer-xml-austausch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "jsonwebtoken": "^9.0.2",
+    "qs": "^6.11.2",
+    "uuid": "^9.0.1"
+  }
+}
